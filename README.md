@@ -27,7 +27,7 @@
 
 | Position | Location | Focus |
 |---|---|---|
-| iOS Intern / Junior iOS Developer | Kazan / Remote / Relocation | UIKit, Programmatic UI, MVP, Coordinator, Unit Tests |
+| iOS Developer | Kazan / Remote / Relocation | UIKit, Programmatic UI, MVP, Coordinator, Unit Tests |
 
 ---
 
@@ -182,7 +182,7 @@ Bachelor degree, Computer Systems / Automation, 2022
 **Courses**
 
 - iOS & Swift — Angela Yu / London App Brewery
-- T-Образование: iOS для начинающих
+- T-Education: iOS for Beginners
 - SwiftBook: Swift language
 - SwiftUI / MVVM / Clean Architecture
 - Quality Assurance
