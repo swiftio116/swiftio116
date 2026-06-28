@@ -191,11 +191,6 @@ Bachelor degree, Computer Systems / Automation, 2022
 
 ## Certificates
 
-<details>
-  <summary>View certificates</summary>
-
-<br>
-
 ### iOS & Swift — Angela Yu / London App Brewery
 
 [Open certificate](./assets/certificates/ios-swift-angela-yu.pdf)
