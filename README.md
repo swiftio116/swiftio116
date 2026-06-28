@@ -33,7 +33,7 @@
 
 ## About me
 
-I am a Junior iOS Developer focused on **Swift, UIKit and clean mobile architecture**.
+I am a iOS Developer focused on **Swift, UIKit and clean mobile architecture**.
 
 I build iOS apps with **programmatic UI**, **native Auto Layout**, `UITableView`, `UICollectionView`, `URLSession`, `Codable`, `CoreLocation` and Firebase.
 
