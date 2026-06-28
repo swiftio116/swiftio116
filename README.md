@@ -189,6 +189,51 @@ Bachelor degree, Computer Systems / Automation, 2022
 
 ---
 
+## Certificates
+
+<details>
+  <summary>View certificates</summary>
+
+<br>
+
+### iOS & Swift — Angela Yu / London App Brewery
+
+[Open certificate](./assets/certificates/ios-swift-angela-yu.pdf)
+
+<br>
+
+### T-Education — iOS for Beginners
+
+[Open certificate](./assets/certificates/t-education-ios.pdf)
+
+<br>
+
+### SwiftBook — Swift Language
+
+[Open certificate](./assets/certificates/swiftbook-certificate.pdf)
+
+<br>
+
+### SwiftUI / MVVM Masterclass
+
+[Open certificate](./assets/certificates/swiftui-mvvm-masterclass.pdf)
+
+<br>
+
+### Quality Assurance
+
+[Open certificate](./assets/certificates/quality-assurance.pdf)
+
+<br>
+
+### Succeed in the Age of AI
+
+[Open certificate](./assets/certificates/succeed-in-age-of-ai.pdf)
+
+</details>
+
+---
+
 ## Current Focus
 
 <p align="center">
