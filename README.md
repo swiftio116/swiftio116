@@ -32,8 +32,7 @@
 ---
 
 ## About me
-
-I am an iOS Developer focused on **Swift, UIKit and clean mobile architecture**.
+I am a Junior iOS Developer focused on Swift, UIKit and clean mobile architecture.**.
 
 I build iOS apps with **programmatic UI**, **native Auto Layout**, `UITableView`, `UICollectionView`, `URLSession`, `Codable`, `CoreLocation` and Firebase.
 
@@ -191,40 +190,19 @@ Bachelor degree, Computer Systems / Automation, 2022
 
 ## Certificates
 
-### iOS & Swift — Angela Yu / London App Brewery
+## Certificates
 
-[Open certificate](./assets/certificates/ios-swift-angela-yu.pdf)
+- [iOS & Swift — Angela Yu / London App Brewery](./assets/certificates/ios-swift-angela-yu.pdf)
 
-<br>
+- [T-Education — iOS for Beginners](./assets/certificates/t-education-ios.pdf)
 
-### T-Education — iOS for Beginners
+- [SwiftBook — Swift Language](./assets/certificates/swiftbook-certificate.pdf)
 
-[Open certificate](./assets/certificates/t-education-ios.pdf)
+- [SwiftUI / MVVM Masterclass](./assets/certificates/swiftui-mvvm-masterclass.pdf)
 
-<br>
+- [Quality Assurance](./assets/certificates/quality-assurance.pdf)
 
-### SwiftBook — Swift Language
-
-[Open certificate](./assets/certificates/swiftbook-certificate.pdf)
-
-<br>
-
-### SwiftUI / MVVM Masterclass
-
-[Open certificate](./assets/certificates/swiftui-mvvm-masterclass.pdf)
-
-<br>
-
-### Quality Assurance
-
-[Open certificate](./assets/certificates/quality-assurance.pdf)
-
-<br>
-
-### Succeed in the Age of AI
-
-[Open certificate](./assets/certificates/succeed-in-age-of-ai.pdf)
-
+- [Succeed in the Age of AI](./assets/certificates/succeed-in-age-of-ai.pdf)
 </details>
 
 ---
